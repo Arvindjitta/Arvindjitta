@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+![hand](https://github.com/Arvindjitta/Arvindjitta/raw/master/Blue-in-Jacket11%202.png)
 
 <p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
