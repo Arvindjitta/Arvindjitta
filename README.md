@@ -1,11 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
-</head>
-<body>
+
   
       <section class="text-gray-700 body-font"> 
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col-reverse items-center">
@@ -27,4 +23,4 @@
           </div>
         </div>
       </section>
-  </body>
+ 
